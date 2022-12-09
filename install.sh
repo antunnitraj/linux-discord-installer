@@ -4,4 +4,4 @@ sudo tar -xvzf discord.tar.gz -C /opt
 rm -rf discord.tar.gz
 sudo ln -sf /opt/Discord/Discord /usr/bin/Discord
 sudo rm -rf /usr/share/applications/discord.desktop
-sudo wget https://raw.githubusercontent.com/antunnitraj/antunnitraj.github.io/main/discord.desktop -O /usr/share/applications/discord.desktop
+sudo wget https://raw.githubusercontent.com/antunnitraj/linux-discord-installer/main/discord.desktop -O /usr/share/applications/discord.desktop
